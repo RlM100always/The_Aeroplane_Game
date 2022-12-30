@@ -1,4 +1,4 @@
-# The_Hunt_For_Red_October
+# MIG-29
 CSE-1211 Lab Project (Fall 2022)
 
 ![Intro image](assets/obj%20%26%20background/mainmenubg.png)
@@ -7,7 +7,7 @@ CSE-1211 Lab Project (Fall 2022)
 This is an academic project of the course CSE-1211 for 1st year 2nd semester in the Department of Computer Science and Engineering of the Univeristy of Dhaka. The game project is developed for only **Linux** as of now using **SDL2**
 
 ## In Details
-**The Hunt For Red October** is a 2D Third-person Shooting game. The game project is inspired by the 1990 movie of the same name [The Hunt for Red October](https://en.wikipedia.org/wiki/The_Hunt_for_Red_October_(film)).
+**MIG-29** is a 2D Third-person Shooting game. The game project is inspired by the 1990 movie of the same name [The Hunt for Red October]
 
 The game has two levels till now **Easy** and **Hard** . Both levels are endless. 
 
@@ -34,7 +34,7 @@ write
 to run the game.
 
 ### using Unity Launcher
-open the **The Hunt For Red October.desktop** using any text editor (gedit,nano,vim,vscode etc.).
+open the **MIG-29.desktop** using any text editor (gedit,nano,vim,vscode etc.).
 
 In the file assign the full path of `a.out` in `Exec`. 
 Like this:
@@ -49,7 +49,7 @@ Like this:
 finally assign full path of an icon image in `Icon`. 
 Like this:
 
-```Icon=/home/user-name/The_Hunt_For_Red_October/assets/obj & background/mainmenubg.png```
+```Icon=/home/user-name/MIG-29/assets/obj & background/mainmenubg.png```
 
 After that move or paste the **The Hunt For Red October.desktop** file in desktop and right clicking click on **Allow Launching**
 and in **Properties** make sure you ticked **Allow executing as program** in the **Permissions** section.
