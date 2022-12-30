@@ -7,7 +7,7 @@ CSE-1211 Lab Project (Fall 2022)
 This is an academic project of the course CSE-1211 for 1st year 2nd semester in the Department of Computer Science and Engineering of the Univeristy of Dhaka. The game project is developed for only **Linux** as of now using **SDL2**
 
 ## In Details
-**MIG-29** is a 2D Third-person Shooting game. The game project is inspired by the 1990 movie of the same name [The Hunt for Red October]
+**MIG-29** is a 2D Third-person Shooting game. 
 
 The game has two levels till now **Easy** and **Hard** . Both levels are endless. 
 
