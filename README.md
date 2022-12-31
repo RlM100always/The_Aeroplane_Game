@@ -1,5 +1,5 @@
-# The_Aeroplane_Game
-#MIG-29
+# The_Aeroplane_Game MIG-29
+
 CSE-1211 Lab Project (Fall 2022)
 
 ![Intro image](assets/obj%20%26%20background/mainmenubg.png)
