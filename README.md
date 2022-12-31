@@ -55,4 +55,4 @@ After that move or paste the **MIG-29.desktop** file in desktop and right clicki
 and in **Properties** make sure you ticked **Allow executing as program** in the **Permissions** section.
 Now, double clicking will launch the game. 
 
-## Hope you will enjoy
+
