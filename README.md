@@ -2,7 +2,6 @@
 
 CSE-1211 Lab Project (Fall 2022)
 
-![Intro image](assets/obj%20%26%20background/mainmenubg.png)
 
 ## Outline
 This is an academic project of the course CSE-1211 for 1st year 2nd semester in the Department of Computer Science and Engineering of the Univeristy of Dhaka. The game project is developed for only **Linux** as of now using **SDL2**
