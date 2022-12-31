@@ -1,4 +1,4 @@
-# The_Aeroplane_Game
+# The_Aeroplane_Game MIG-29
 
 CSE-1211 Lab Project (Fall 2022)
 
